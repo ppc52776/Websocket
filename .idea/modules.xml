@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-WebSocket/Java-WebSocket.iml" filepath="$PROJECT_DIR$/Java-WebSocket/Java-WebSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebSocketIO/WebSocketIO.iml" filepath="$PROJECT_DIR$/WebSocketIO/WebSocketIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Websocket.iml" filepath="$PROJECT_DIR$/Websocket.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
     </modules>
   </component>
 </project>

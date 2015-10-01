@@ -1,1 +1,1 @@
-include ':app', ':Java-WebSocket'
+include ':demo', ':Java-WebSocket', ':WebSocketIO'
